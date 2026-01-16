@@ -1,0 +1,17 @@
+../Core/Src/main.c:51:6:SysTick_Handler	1
+../Core/Src/main.c:55:6:SysTick_Init	1
+../Core/Src/main.c:61:6:delay	2
+../Core/Src/main.c:66:10:millis	1
+../Core/Src/main.c:72:6:UART1_Init	1
+../Core/Src/main.c:82:6:UART1_SendChar	2
+../Core/Src/main.c:87:6:UART1_SendString	2
+../Core/Src/main.c:92:6:UART1_SendDecimal	5
+../Core/Src/main.c:113:6:UART1_SendFloat	2
+../Core/Src/main.c:135:6:i2c_init	2
+../Core/Src/main.c:182:12:I2C_Mem_Write	20
+../Core/Src/main.c:297:12:i2c_ReadMulti	25
+../Core/Src/main.c:443:12:MPU6050Init	8
+../Core/Src/main.c:488:6:MPU6050_Read_G	1
+../Core/Src/main.c:500:6:MPU_Read_A	1
+../Core/Src/main.c:513:6:Filter	1
+../Core/Src/main.c:533:5:main	1

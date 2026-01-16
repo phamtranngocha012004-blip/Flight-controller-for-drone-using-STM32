@@ -1,0 +1,3 @@
+../Core/Src/spi.c:4:6:spi_init	4	static
+../Core/Src/spi.c:35:6:spi1_transmit	24	static
+../Core/Src/spi.c:56:6:spi1_receive	16	static

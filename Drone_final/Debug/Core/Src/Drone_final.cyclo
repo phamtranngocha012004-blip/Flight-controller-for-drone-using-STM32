@@ -1,0 +1,7 @@
+../Core/Src/Drone_final.c:16:6:SysTick_Init	1
+../Core/Src/Drone_final.c:25:6:SysTick_Handler	1
+../Core/Src/Drone_final.c:30:6:delay	2
+../Core/Src/Drone_final.c:39:6:PWM_init	1
+../Core/Src/Drone_final.c:95:6:Duty_PWM	5
+../Core/Src/Drone_final.c:107:7:Handle_Data	1
+../Core/Src/Drone_final.c:117:5:main	4
